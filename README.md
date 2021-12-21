@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @yuisato-git
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Overview
 
-<!---
-yuisato-git/yuisato-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Yui Sato's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuisato-git&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Zenn
+<a href="https://zenn.dev/def_yuisato">
+    <img height="20" src="https://img.shields.io/badge/profile-zenn-blue" />
+</a>
+
+### Twitter
+
+![Twitter Follow](https://img.shields.io/twitter/follow/def_yuisato?style=social)
