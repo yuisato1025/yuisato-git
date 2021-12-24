@@ -4,6 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuisato-git&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuisato)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Zenn
 <a href="https://zenn.dev/def_yuisato">
     <img height="20" src="https://img.shields.io/badge/profile-zenn-blue" />
